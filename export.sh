@@ -1,0 +1,1 @@
+contentful space export --space-id=sr6nacuav1bg --environment-id=master --export-dir=./contentful-export --mt=mSzyTGPXZuOvReGZd4QpKGoN6VdU49j-fU-BFXwL5yk --max-allowed-limit=200 --download-assets=true
